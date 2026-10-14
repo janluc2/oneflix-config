@@ -1,3 +1,5 @@
 {
-  "server_base": "http://full-live.ddns.net:80"
+  "server_base": "http://full-live.ddns.net:80",
+  "intro_video": "https://raw.githubusercontent.com/janluc2/oneflix-config/main/server1/intro.mp4",
+  "intro_version": "1"
 }
